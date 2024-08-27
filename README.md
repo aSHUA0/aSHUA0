@@ -1,12 +1,15 @@
 ### Olá eu sou o Guilherme
 
+<br><br>
+Eu sou atualmente um aludo da UCB em Ciência da Computação, adoro aprender coisas novas e sempre estou atrás de aprender novas tecnologias. 
+<br><br>
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSHUA0&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSHUA0&show_icons=true&rank_icon=github&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aSHUA0&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aSHUA0&layout=compact&theme=dracula)
 ##
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso 💻
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />

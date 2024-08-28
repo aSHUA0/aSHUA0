@@ -1,7 +1,7 @@
-### Olá eu sou o Guilherme
+### Olá eu sou o Guilherme ✌
 
 <br><br>
-Eu sou atualmente um aludo da UCB em Ciência da Computação, adoro aprender coisas novas e sempre estou atrás de aprender novas tecnologias. 
+Eu sou um aludo da UCB em Ciência da Computação, adoro aprender coisas novas e sempre estou atrás de aprender novas tecnologias, atualmente só estudando e procurando oportunidades para se guanhar experiências. 
 <br><br>
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSHUA0&show_icons=true&rank_icon=github&theme=dracula)
